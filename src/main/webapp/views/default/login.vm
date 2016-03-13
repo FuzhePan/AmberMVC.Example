@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<form>
+    <p>Hello,$name</p>
+    <input type="text"/><br/>
+    <button type="submit">登录</button>
+</form>
+</body>
+</html>
